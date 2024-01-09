@@ -1,6 +1,6 @@
 ---
-title: Frontpage
+title: Etusivu
 permalink: /
 ---
 
-# Site Name
+# Tietokantojen perusteet, kevät 2024
