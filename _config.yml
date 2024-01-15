@@ -22,7 +22,7 @@ collections:
   # In Finnish you might want to write e.g. "materiaali:" instead.
   material:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:title/
 
 # Uncomment to hide the section submenus in navigation
 # for pages other than the current one:
